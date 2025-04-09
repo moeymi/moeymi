@@ -9,6 +9,7 @@
 ## 💻 About Me
 
 I'm an MSc Computer Science student at the University of Hull, blending **creativity with technical expertise** in **game development, engine programming, and real-time graphics**. I thrive in building **multiplayer systems, optimizing performance, and pushing the boundaries of Web3 gaming**. Whether it’s **designing shaders, crafting AI systems, or creating AR/VR experiences**, I’m always up for a challenge!
+https://moeymakes.com/
 
 ---
 
