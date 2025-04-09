@@ -64,10 +64,10 @@ https://moeymakes.com/
 ---
 
 ## 📫 Let's Connect!
+🌐 Portfolio: [moeymakes.com](#)  
 📧 Email: [info@moeymakes.com](mailto:info@moeymakes.com)  
 💼 LinkedIn: [linkedin.com/in/mohamadmisrabi](#)  
 🐦 Twitter: [twitter.com/momisrabi](#)  
-🌐 Portfolio: [moeymakes.com](#)  
 
 Let's build something awesome together! 🚀
 
