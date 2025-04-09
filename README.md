@@ -64,7 +64,7 @@ https://moeymakes.com/
 ---
 
 ## 📫 Let's Connect!
-📧 Email: [momisrabi@gmail.com](mailto:momisrabi@gmail.com)  [info@moeymakes.com](mailto:info@moeymakes.com)
+📧 Email: [info@moeymakes.com](mailto:info@moeymakes.com) 
 💼 LinkedIn: [linkedin.com/in/mohamadmisrabi](#)  
 🐦 Twitter: [twitter.com/momisrabi](#)  
 🌐 Portfolio: [moeymakes.com](#)  
