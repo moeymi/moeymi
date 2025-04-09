@@ -64,7 +64,7 @@ https://moeymakes.com/
 ---
 
 ## 📫 Let's Connect!
-📧 Email: [M.MISRABI-2023@hull.ac.uk](mailto:M.MISRABI-2023@hull.ac.uk)  
+📧 Email: [momisrabi@gmail.com](mailto:momisrabi@gmail.com)  [info@moeymakes.com](mailto:info@moeymakes.com)
 💼 LinkedIn: [linkedin.com/in/mohamadmisrabi](#)  
 🐦 Twitter: [twitter.com/momisrabi](#)  
 🌐 Portfolio: [moeymakes.com](#)  
