@@ -1,4 +1,4 @@
-# Hi there! I'm Mohamad Misrabi 👋
+# Hi there! I'm Moey Misrabi 👋
 
 🚀 **Game Developer | Engine Programmer | AR/VR Enthusiast**  
 🎮 Passionate about Real-Time Graphics, Physics, and Math  
